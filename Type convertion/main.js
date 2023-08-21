@@ -9,17 +9,17 @@
 // console.log(+a);
 // 3
 // let a = "1.2";
-// console.log(+a);
+// console.log(typeof +a);
 //! NaN => Not a number
 
 //? Number()
 // 1
 // let a = "12";
 // let number = Number(a);
-// console.log(typeof number);
+// console.log( number);
 // 2
 // let a = "1a1";
-// console.log(Number(a));
+// console.log( Number(a));
 // 3
 // let a = "1.2";
 // console.log(Number(a));
@@ -29,7 +29,7 @@
 // let a = "12";
 // console.log(parseInt(a));
 // 2
-// let a = "1.9999";
+// let a = "12.9999";
 // console.log(parseInt(a));
 // 3
 // let a = "12.3a1";
@@ -40,7 +40,7 @@
 // let a = "12";
 // console.log(parseFloat(a));
 // 2
-// let a = "1.9999";
+// let a = "1.9999a2";
 // console.log(parseFloat(a));
 // 3
 // let a = "12.3a1";
