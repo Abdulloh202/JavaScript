@@ -61,7 +61,6 @@
 // }
 // console.log(str);
 
-
 // 4
 // let width = 10;
 // let height = 10;
@@ -81,7 +80,6 @@
 // }
 
 // console.log(str);
-
 
 // qudarat aka
 
@@ -103,7 +101,6 @@
 // }
 // console.log(`${s} ta son chiqarildi`);
 
-
 // 3
 // let a = 1;
 // let b = 10;
@@ -114,38 +111,32 @@
 // }
 // console.log(`${s} ta son chiqarildi`);
 
-
 // 4
 
-// let kg = 1;
-// let narx = "5000"
-// for(let i = 1;i<=kg;i++){
-//     console.log(`${i}kg`);
+// let n = 10;
+// for (let Sum = 10; Sum < 20; Sum++) {
+//   console.log(`${n}kg ${n* Sum} Sum`) ;
 // }
-
-
 
 // let width = 11;
 // let height = 11;
-// let str=""
+// let str = "";
 // for (let i = 0; i < height; i++) {
-
 //   for (let j = 0; j < width; j++) {
-//     if (j == 0 || j == width -1) {
-//       str+="*"
-//     }else if(i== -1 || i==height-1){
-//       str+="*"
-//     }else if(i+j == width -1){
-//       str+="*"
-//     }else if(i==j){
-//       str+="*"
-//     }else if(j=== width){
-//         str+="*"
+//     if (j == 0 || j == width - 1) {
+//       str += "*";
+//     } else if (i == -1 || i == height - 1) {
+//       str += "*";
+//     } else if (i + j == width - 1) {
+//       str += "*";
+//     } else if (i == j) {
+//       str += "*";
+//     } else if (j === width) {
+//       str += "*";
+//     } else {
+//       str += " ";
 //     }
-//      else{
-//       str +=" "
-//      }
 //   }
-//   str += "\n"
+//   str += "\n";
 // }
 // console.log(str);
