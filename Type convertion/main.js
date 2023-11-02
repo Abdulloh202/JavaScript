@@ -218,6 +218,9 @@
 // console.log(undefined + 1); //NaN
 // console.log("\t \n" - 2); //-2
 
+   
+
+
 
 
 // console.log(5>4);//true
