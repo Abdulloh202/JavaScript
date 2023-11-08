@@ -169,5 +169,11 @@
 //         console.log(b);
 //     }
 // }
+
 // 4
 
+let a = 3,
+  b = 2,
+  c = 2,
+  d = 1;
+console.log(a,b,c,d < 0);
