@@ -140,3 +140,34 @@
 //   str += "\n";
 // }
 // console.log(str);
+
+// home work
+
+// 1
+
+// let k = +prompt("Son kiriting")
+
+// for (let n = 1; n <= k; n++) {
+//     let j = n
+//     console.log(`${n} son`);
+// }
+
+// 2
+// let a = +prompt("A soni kiriting");
+// let b = +prompt("B soni kiriting");
+
+// for (let i = b; b <= a; b++) {
+//   console.log(b);
+// }
+
+// 3
+// let a = +prompt("A soni kiriting");
+// let b = +prompt("B soni kiriting");
+
+// for (let i = a; a <= b; b--) {
+//     if(b % 2 == 0){
+//         console.log(b);
+//     }
+// }
+// 4
+
