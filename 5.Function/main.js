@@ -188,30 +188,3 @@
 // let sayHi = () => 2;
 // let result = sayHi();
 // console.log(result);
-
-// ///////////////////////////////////////////////////////////////////////////////////////
-//! Hoisting
-// console.log(son);
-// var son = 12;
-// console.log(son);
-// console.log(son);
-// let son = 12;
-
-//? Function expression
-// sayHi();
-// function sayHi() {
-//   console.log("Hello");
-// }
-// sayHi();
-// let sayHi = function () {
-// 	console.log("Hello");
-// };
-
-//? 2015 => ES6, Arrow function
-// sayHi()
-// let sayHi = () => {
-// 	console.log("hello");
-// }
-// let sayHi = () => 2;
-// let result = sayHi();
-// console.log(result);
